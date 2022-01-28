@@ -3,21 +3,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Adnan Ahmad</title>
-    <meta name="title" content="Adnan Ahmad">
-    <meta name="description" content="Hey, I'm Adnan from New Delhi, India. I am 19 year old. Currently studying Electrical Engineering from G. B. Pant Institute of Technology. I would like to play virtual games rather than outdoor games.">
+    <title>RexBotz</title>
+    <meta name="title" content="Rex_Botz">
+    <meta name="description" content="RexBotz is a Professional Team from Tamil Nadu to create Telegram Bots.">
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://viperadnan.ga/">
-    <meta property="og:title" content="Adnan Ahmad">
-    <meta property="og:description" content="Hey, I'm Adnan from New Delhi, India. I am 19 year old. Currently studying Electrical Engineering from G. B. Pant Institute of Technology. I would like to play virtual games rather than outdoor games.">
-    <meta property="og:image" content="images/profile-banner.jpg">
+    <meta property="og:url" content="http://rexbotz.github.io/">
+    <meta property="og:title" content="RexBotz">
+    <meta property="og:discription" content="RexBotz is a Professional Team from Tamil Nadu to create Telegram Bots.">
+    <meta property="og:image" content="https://telegra.ph/file/93e7ae69a568534628004.jpg">
 
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://viperadnan.ga/">
-    <meta property="twitter:title" content="Adnan Ahmad">
-    <meta property="twitter:description" content="Hey, I'm Adnan from New Delhi, India. I am 19 year old. Currently studying Electrical Engineering from G. B. Pant Institute of Technology. I would like to play virtual games rather than outdoor games.">
-    <meta property="twitter:image" content="images/profile-banner.jpg">
+    <meta property="twitter:url" content="http://rexbotz.github.io/">
+    <meta property="twitter:title" content="RexBotz">
+    <meta property="twitter:description" content="RexBotz is a Professional Team from Tamil Nadu to create Telegram Bots.">
+    <meta property="twitter:image" content="https://telegra.ph/file/93e7ae69a568534628004.jpg">
 
     <link rel="icon" href="https://img.icons8.com/cotton/150/000000/administrator-male.png" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
